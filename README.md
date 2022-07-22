@@ -32,6 +32,7 @@
 ##
 - Задача: Есть сайт https://www.tretyakovgallery.ru/. Написать тест кейсы на главную страницу. На мое усмотрение (по уточнению).
 ##
+Тест-кейсы в Google таблице.
 https://docs.google.com/spreadsheets/d/1u3mnt9iqDSOTZ_b6RYK6lqmeRteW3LafI1SOf7rfMmQ/edit?usp=sharing
 ##
 -  Условия: Не открывается сайт приложения. Задача : описать ваши действия в сложившейся ситуации.
